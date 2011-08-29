@@ -1,0 +1,16 @@
+header {
+	padding: 1.8em 0 2em;
+	text-align: center;
+}
+/*
+#logo {
+	background: url(../img/logo.png) no-repeat;
+}
+*/
+
+#logo,
+#logo a {
+	display: inline-block;
+	width: 68px;
+	height: 68px;
+}

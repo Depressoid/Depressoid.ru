@@ -1,0 +1,12 @@
+body {
+	-width: expression((document.documentElement.clientWidth<=900)?'900px':'auto');
+}
+
+#logo, nav li {
+	*display: inline;
+	*zoom: 1;
+}
+
+nav li a {
+	*position: relative;
+}

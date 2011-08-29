@@ -1,0 +1,60 @@
+#wrap {
+	margin: 0 auto;
+}
+
+#content {
+	position: relative;
+	overflow: hidden;
+	background: #313131;
+}
+
+#content:before,
+#content:after {
+	content: '';
+	position: absolute;
+	width: 20%;
+	height: 1em;
+	background: #393939;
+}
+
+#content:before {
+	top: 0;
+	left: 0;
+	padding-right: 1.6em;
+}
+
+#content:after {
+	bottom: 0;
+	right: 0;
+	padding-left: 0.1em;
+	margin-left: -0.1em;
+}
+
+article {
+	width: 60%;
+	margin: -2em auto 0;
+	padding-top: 0.1em;
+	border-top: 0.6em solid #313131;
+	border-bottom: 1em solid #393939;
+}
+
+article p {
+	margin: 1em 0 0;
+	font: 120%/130% "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #777;
+	text-indent: 1.5em;
+}
+
+article > p:last-child {
+	display: inline;
+	position: relative;
+	bottom: -1em;
+	background: #313131;
+}
+
+article > p:last-child:before {
+	content: '';
+	width: 1.5em;
+	height: 1em;
+	float: left;
+}
