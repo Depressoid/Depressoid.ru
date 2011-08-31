@@ -10,9 +10,5 @@ nav li {
 	display: inline-block;
 	margin-right: 20px;
 	font-size: 180%;
-	color: #eee;
-}
-
-nav li a {
-	font-size: 100%;
+	color: #d4d4d4;
 }

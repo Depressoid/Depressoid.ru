@@ -1,6 +1,5 @@
 body {
 	background: #393939;
-	min-width: 900px;
 }
 
 a {
@@ -8,5 +7,5 @@ a {
 }
 
 a:hover {
-	color: #eee;
+	text-decoration: none;
 }

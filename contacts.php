@@ -16,15 +16,21 @@
 			<div id="logo"></div>
 			<nav>
 				<ul>
-					<li class="current">Мы</li>
+					<li><a href="/">Мы</a></li>
 					<li><a href="works.php">творим</a></li>
-					<li><a href="contacts.php">по адресу</a></li>
+					<li class="current">по адресу</li>
 				</ul>
 			</nav>
 		</header>
 		<section id="content">
-			<article>
-				<p>трансгалактическая мегакорпорация, состоящая из депрессивного андроида, великого гения и ничтожества.</p>
+			<article class="vcard">
+				<p class="locality">Рихнобус, ощ. Ликар, цу. ‡₪.</p>
+				<dl>
+					<dt>Почтовый ящик:</dt>
+					<dd class="email">
+						<a href="mailto:mail@depressoid.ru">mail@depressoid.ru</a>
+					</dd>
+				</dl>
 			</article>	
 		</section>
 	</section>

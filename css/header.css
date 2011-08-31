@@ -4,12 +4,13 @@ header {
 }
 
 #logo {
-	background: url(../img/logo.png) no-repeat;
+	position: relative;
+	left: -12px;
 }
 
 #logo,
 #logo a {
 	display: inline-block;
-	width: 65px;
-	height: 65px;
+	width: 68px;
+	height: 68px;
 }

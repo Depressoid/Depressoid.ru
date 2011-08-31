@@ -16,15 +16,27 @@
 			<div id="logo"></div>
 			<nav>
 				<ul>
-					<li class="current">Мы</li>
-					<li><a href="works.php">творим</a></li>
+					<li><a href="/">Мы</a></li>
+					<li class="current">творим</li>
 					<li><a href="contacts.php">по адресу</a></li>
 				</ul>
 			</nav>
 		</header>
 		<section id="content">
 			<article>
-				<p>трансгалактическая мегакорпорация, состоящая из депрессивного андроида, великого гения и ничтожества.</p>
+				<p>Вселенные.</p>
+				<ul>
+					<li>
+						<p class="universe">
+							<a href="http://petr-rostov.ru">Официальный сайт Ростова Петра</a>&nbsp;&mdash;&nbsp;шарики.
+						</p>
+					</li>
+					<li>
+						<p class="universe">
+							<a href="http://vyebnis.ru">Выебнись</a>&nbsp;&mdash;&nbsp;платформа для творчества.
+						</p>
+					</li>
+				</ul>
 			</article>	
 		</section>
 	</section>
