@@ -1,14 +1,14 @@
 nav {
-	margin-top: 1em;
+    margin-top: 1em;
 }
 
 nav ul {
-	text-align: center;
+    text-align: center;
 }
 
 nav li {
-	display: inline-block;
-	margin-right: 20px;
-	font-size: 180%;
-	color: #d4d4d4;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 180%;
+    color: #d4d4d4;
 }

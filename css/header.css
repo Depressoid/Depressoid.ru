@@ -1,16 +1,16 @@
 header {
-	padding: 1.8em 0 2em;
-	text-align: center;
+    padding: 1.8em 0 2em;
+    text-align: center;
 }
 
 #logo {
-	position: relative;
-	left: -12px;
+    position: relative;
+    left: -12px;
 }
 
 #logo,
 #logo a {
-	display: inline-block;
-	width: 68px;
-	height: 68px;
+    display: inline-block;
+    width: 68px;
+    height: 68px;
 }

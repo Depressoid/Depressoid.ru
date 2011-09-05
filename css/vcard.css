@@ -1,14 +1,14 @@
 #content .vcard dl {
-	padding: 0 0 0.2em 0;
-	bottom: -1.2em;
-	display: inline;
+    padding: 0 0 0.2em 1.8em;
+    bottom: -1.2em;
+    display: inline;
 }
 
 #content .vcard .locality {
-	margin-bottom: -1em;
+    margin-bottom: -1em;
 }
 
 #content .vcard dt,
 #content .vcard dd {
-	display: inline;
+    display: inline;
 }
